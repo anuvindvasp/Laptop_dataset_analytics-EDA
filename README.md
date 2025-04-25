@@ -1,4 +1,4 @@
-# Laptop_sales_analytics-EDA
+# Laptop_dataset_analytics-EDA
 
 
 INTRODUCTION
